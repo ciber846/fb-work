@@ -1,0 +1,6 @@
+{
+  "name": "Social Media Post & Banner Studio",
+  "description": "Facebook ও Instagram পোস্ট, ব্যানার এবং কভার ডিজাইন তৈরি, ক্লায়েন্ট ওয়াটারমার্ক প্রিভিউ, AI ক্যাপশন এবং বিক্রির ইনভয়েস স্টুডিও।",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
